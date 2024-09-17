@@ -1,2 +1,2 @@
 # scratchflash
-Waiting for Ruffle to implement downloading files still.
+Ruffle fixed file downloading, so this just works now.
